@@ -8510,7 +8510,7 @@
     (property "Reference" "C36" (at 216.535 117.475 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4.7uf" (at 214.63 119.38 0)
+    (property "Value" "10uF" (at 214.63 119.38 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 213.36 117.475 0)
